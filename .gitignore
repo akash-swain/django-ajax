@@ -1,3 +1,6 @@
 videos/
 test/
-
+__pycache__/
+.vscode/
+v_environment/
+*.sqlite3
